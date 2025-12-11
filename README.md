@@ -4,6 +4,11 @@ This project presents an **Electric Vehicle (EV) Dashboard** providing insights 
 
 ---
 
+# EV Dashboard Preview
+
+![EV Dashboard Preview](https://raw.githubusercontent.com/rautdnyaneshwar7755-collab/EV-Car-Analysis/main/EV%20Dashboard%20Preview.png)
+
+
 ## 📊 Dashboard Highlights
 
 - **Total Vehicles**: `150K`  
